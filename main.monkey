@@ -5,5 +5,7 @@ last(myArray)
 rest(myArray)
 
 let test = push(myArray, "test")
-test
+
+let myPair = {"first": 1}
+myPair["first"]
 
